@@ -1,0 +1,2 @@
+# jusFortest
+just test gitssh
